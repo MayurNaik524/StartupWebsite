@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.li-item{
+    padding: 0px 10px 0px 10px;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size:40px;
+    font-weight: 400;
+}
+h2{
+    font-family:montesrrat,cursive,bold;
+    color: darkgoldenrod;
+}
+ul a{
+    color:rgb(123, 159, 232)
+}
+ul a:hover{
+    color: rgb(28, 109, 141);
+    text-decoration: none;
+}
+.main{
+    width:110%;
+    padding-right: 20%;
+}
+.main-page{
+     background:linear-gradient(120deg,#e0ffff,#87cefa)
+     
+}
+.info{
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+}
+.main-rgt{
+    padding:100px 80px;
+}
+.main-lft{
+    padding:100px 100px;
+}
+.subhead{
+    /* padding-left: 40%; */
+    font-size: 300%;
+    color: rgb(210, 100, 32);
+    background-color: rgb(239, 211, 211);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.feature{
+    text-align: center;
+    padding: 15px;
+}
+.feature:hover{
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(243, 180, 180);
+    border-radius:45px;
+    border: solid  rgb(194, 158, 117);
+}
+.Services{
+    padding: 7% 15%;
+    background-color: rgb(239, 211, 211);
+}
+.sr-img{
+    width: 50%;
+    object-fit: cover;
+    border-radius: 50%
+}
+.sr-img:hover{
+    width: 55%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.white-mid{
+    padding: 5% 15%;
+}
+.white-mid p{
+   font-family: 'Arial Narrow Bold', cursive;
+   font-size: 30px;
+}
+.white-mid h2{
+    color:darkkhaki;
+    text-align: center;
+    font-size: 45px;
+}
+#footer{
+    text-align: center;
+    background-color: #333;
+    padding: 5% 5%;
+  }
+  #footer p{
+    color: #e0ffff;
+  }
